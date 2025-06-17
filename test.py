@@ -1,6 +1,6 @@
 # This Python script will fail deliberately
 
-d fail():
+d---- fail():
     raise xception("This is a deliberate failure!")
 
 fail()
