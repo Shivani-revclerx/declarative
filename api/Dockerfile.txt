@@ -5,7 +5,7 @@ FROM ubuntu:20.04
 WORKDIR /app
 
 # Set the maintainer label
-LABEL maintainer="harikumar.reddy@mindmatrix.net"
+LABEL maintainer="shivanisharma@revclerx.com"
 
 # Expose the necessary ports
 EXPOSE 7001
