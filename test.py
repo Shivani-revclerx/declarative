@@ -4,4 +4,4 @@
 def fail():
     raise xception("This is a deliberate failure!")
 
-fail()
+fail()\
